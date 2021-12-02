@@ -6,6 +6,8 @@ Never tried Gitpod? Click the button below to start your first development envir
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
 
+Learn more at https://www.gitpod.io/
+
 * 💡 Feature requests? Raise them at https://github.com/gitpod-io/gitpod/issues but make sure you look at https://github.com/gitpod-io/roadmap!
 * 🐛 Bugs? Raise them at https://github.com/gitpod-io/gitpod/issues
 * ⚠️ Service interuptions? Check http://www.gitpodstatus.com first before logging a [support ticket](https://www.gitpod.io/support).
