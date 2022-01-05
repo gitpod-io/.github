@@ -6,8 +6,8 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
 
-* 💡 Feature requests? Raise them at https://github.com/gitpod-io/gitpod/issues but make sure you look at https://github.com/gitpod-io/roadmap!
-* 🐛 Bugs? Raise them at https://github.com/gitpod-io/gitpod/issues
+* 💡 Feature requests? Raise an issue [here](https://github.com/gitpod-io/gitpod/issues) but make sure you look at our [roadmap](https://github.com/gitpod-io/roadmap)!
+* 🐛 Bugs? Raise an issue [here](https://github.com/gitpod-io/gitpod/issues).
 * ⚠️ Service interuptions? Check http://www.gitpodstatus.com first before logging a [support ticket](https://www.gitpod.io/support).
 * 🦩 Feeling social? Come join the [Discord community](https://www.gitpod.io/chat).
 
