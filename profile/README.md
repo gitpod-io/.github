@@ -6,15 +6,16 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
 
-* 💡 Feature requests? Raise an issue [here](https://github.com/gitpod-io/gitpod/issues) but make sure you look at our [roadmap](https://github.com/gitpod-io/roadmap)!
-* 🐛 Bugs? Raise an issue [here](https://github.com/gitpod-io/gitpod/issues).
-* ⚠️ Service interuptions? Check [Gitpod Status Page](https://gitpodstatus.com/) first before logging a [support ticket](https://www.gitpod.io/support).
-* 🦩 Feeling social? Come join the [Discord community](https://www.gitpod.io/chat).
+* 🗺️ Interested in what new features are coming up next? [Checkout Gitpod's Product Roadmap](https://github.com/orgs/gitpod-io/projects/27)
+* 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=&template=feature_request.md&title=)
+* 🐛 Did you run into a bug? [Open a bug report](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=bug&template=bug_report.yml)
+* ⚠️ Service interuptions? [Checkout Gitpod Status](https://gitpodstatus.com/)
+* 🦩 Feeling social? [Join our discord community](https://www.gitpod.io/chat)
 
-### Recent blog posts
+#### Recent blog posts
 
-- [Gitpod shipped GitHub a launch cake for Codespaces](https://www.gitpod.io/blog/cake)
-- [I said goodbye to local development and so can you](https://www.gitpod.io/blog/i-said-goodbye-to-local-development-and-so-can-you)
-- [Gitpod Open-Source Sustainability Fund](https://www.gitpod.io/blog/gitpod-open-source-sustainability-fund)
-- [Workshops as Code](https://www.gitpod.io/blog/workshops-as-code)
-- [Introducing Gitpod for Startups](https://www.gitpod.io/blog/gitpod-for-startups)
+- [Introducing Gitpod for Open Source](https://www.gitpod.io/blog/gitpod-for-opensource)
+- [DevX Digest 07 - Is DevX the new DevRel?](https://www.gitpod.io/blog/devrel-link-devx)
+- [January 25th Outage](https://www.gitpod.io/blog/no-way-it-is-dns)
+
+[View all blog posts &rarr;](https://www.gitpod.io/blog)
