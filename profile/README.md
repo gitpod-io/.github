@@ -4,7 +4,7 @@
 
 Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start your first development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/.github)
 
 * 🗺️ Interested in what new features are coming up next? [Checkout Gitpod's Product Roadmap](https://github.com/orgs/gitpod-io/projects/27)
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=&template=feature_request.md&title=)
