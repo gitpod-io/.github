@@ -14,8 +14,8 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 
 #### Recent blog posts
 
-- [Introducing Gitpod for Open Source](https://www.gitpod.io/blog/gitpod-for-opensource)
-- [DevX Digest 07 - Is DevX the new DevRel?](https://www.gitpod.io/blog/devrel-link-devx)
-- [January 25th Outage](https://www.gitpod.io/blog/no-way-it-is-dns)
+- [Gitpod x JetBrains join forces to solve 'works on my machine' problem](https://www.gitpod.io/blog/gitpod-jetbrains)
+- [SSH for workspaces as easy as copy/paste](https://www.gitpod.io/blog/copy-paste-ssh-workspace-access)
+- [Why we moved from Helm to Gitpod Installer](https://www.gitpod.io/blog/gitpod-installer)
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
