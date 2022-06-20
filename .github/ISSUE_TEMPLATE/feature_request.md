@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: "Priority: Minor"
 assignees: ''
+
 ---
 <!-- IMPORTANT: Please assign the relevant PM, or ask in #product if you don't know who to assign. Also change the priority label if needed. -->
 
