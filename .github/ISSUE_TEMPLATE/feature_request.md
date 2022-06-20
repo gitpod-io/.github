@@ -2,11 +2,10 @@
 name: Feature Request
 about: Suggest an idea for this project
 title: ''
-labels: ["Priority: Minor"]
+labels: ''
 assignees: ''
 
 ---
-<!-- IMPORTANT: Please assign the relevant PM, or ask in #product if you don't know who to assign. Also change the priority label if needed. -->
 
 ## Is your feature request related to a problem? Please describe
 <!-- A clear and concise description of what the problem is. Examnple: I'm always frustrated when [...] because [...]  -->
