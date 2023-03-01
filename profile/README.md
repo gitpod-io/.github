@@ -14,8 +14,8 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 
 #### Recent blog posts
 
-- [Gitpod x JetBrains join forces to solve 'works on my machine' problem](https://www.gitpod.io/blog/gitpod-jetbrains)
-- [SSH for workspaces as easy as copy/paste](https://www.gitpod.io/blog/copy-paste-ssh-workspace-access)
-- [Why we moved from Helm to Gitpod Installer](https://www.gitpod.io/blog/gitpod-installer)
+- [Signing Commits on Gitpod with 1Password](https://www.gitpod.io/blog/signing-git-commits-on-gitpod-with-1-password)
+- [Securely Manage and Rotate Development Secrets with Doppler and Gitpod](https://www.gitpod.io/blog/securely-manage-development-secrets-with-doppler-and-gitpod)
+- [Gitpod comes to your city - host a community meet-up](https://www.gitpod.io/blog/gitpod-comes-to-your-city-host-a-community-meet-up-with-gitpod)
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
