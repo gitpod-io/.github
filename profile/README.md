@@ -15,9 +15,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
-- [Signing Commits on Gitpod with 1Password](https://www.gitpod.io/blog/signing-git-commits-on-gitpod-with-1-password)
-- [Securely Manage and Rotate Development Secrets with Doppler and Gitpod](https://www.gitpod.io/blog/securely-manage-development-secrets-with-doppler-and-gitpod)
-- [Gitpod comes to your city - host a community meet-up](https://www.gitpod.io/blog/gitpod-comes-to-your-city-host-a-community-meet-up-with-gitpod)
+* [Signing Commits on Gitpod with 1Password](https://www.gitpod.io/blog/signing-git-commits-on-gitpod-with-1-password)
+* [Securely Manage and Rotate Development Secrets with Doppler and Gitpod](https://www.gitpod.io/blog/securely-manage-development-secrets-with-doppler-and-gitpod)
+* [Gitpod comes to your city - host a community meet-up](https://www.gitpod.io/blog/gitpod-comes-to-your-city-host-a-community-meet-up-with-gitpod)
+* [Building for the long run](https://www.gitpod.io/blog/building-for-the-long-run)
+* [Better container development on Apple M1 Macbooks with Gitpod](https://www.gitpod.io/blog/better-container-development-on-apple-m1-macbooks-with-gitpod)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
