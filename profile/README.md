@@ -15,11 +15,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Securing CNCF Software Supply Chains with CDEs](https://www.gitpod.io/blog/securing-cncf-software-supply-chains-with-cd-es)
 * [Enhance your Data Team's Productivity with dbt and Gitpod](https://www.gitpod.io/blog/dbt-in-gitpod)
 * [Why we're launching CDE Universe](https://www.gitpod.io/blog/cde-universe-2023)
 * [A Guide to Gitpod's New Approach to Organizations](https://www.gitpod.io/blog/organizations)
 * [Dynamic AWS Development Environments with Doppler and Gitpod](https://www.gitpod.io/blog/dynamic-aws-development-environments-with-doppler-and-gitpod)
-* [Signing Commits on Gitpod with 1Password](https://www.gitpod.io/blog/signing-git-commits-on-gitpod-with-1-password)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
