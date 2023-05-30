@@ -6,7 +6,6 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.new)
 
-* 🗺️ Interested in what new features are coming up next? [Checkout Gitpod's Product Roadmap](https://github.com/orgs/gitpod-io/projects/27)
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=&template=feature_request.md&title=)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=bug&template=bug_report.yml)
 * ⚠️ Service interuptions? [Checkout Gitpod Status](https://gitpodstatus.com/)
