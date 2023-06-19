@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Boosting Developer Productivity: Unleashing the Power of Sourcegraph Cody in Gitpod](https://www.gitpod.io/blog/boosting-developer-productivity-unleashing-the-power-of-sourcegraph-cody-in-gitpod)
 * [Building Cloud Dev Assistants with GPT-4 and Pinecone on Gitpod](https://www.gitpod.io/blog/building-cloud-dev-assistants-with-gpt-4-on-gitpod)
 * [Securing CNCF Software Supply Chains with CDEs](https://www.gitpod.io/blog/securing-cncf-software-supply-chains-with-cd-es)
 * [Enhance your Data Team's Productivity with dbt and Gitpod](https://www.gitpod.io/blog/dbt-in-gitpod)
 * [Why we're launching CDE Universe](https://www.gitpod.io/blog/cde-universe-2023)
-* [A Guide to Gitpod's New Approach to Organizations](https://www.gitpod.io/blog/organizations)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
