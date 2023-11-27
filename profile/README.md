@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [A Field Guide for Sabotaging Developer Productivity: The Art of Code Chaos](https://www.gitpod.io/blog/a-field-guide-for-sabotaging-developer-productivity-the-art-of-code-chaos)
 * [Champion Building - How to successfully adopt a developer tool](https://www.gitpod.io/blog/champion-building)
 * [Ready-to-code](https://www.gitpod.io/blog/ready-to-code)
 * [Linux Foundation & Gitpod partner to offer 250 free hours of Cloud Development Environments monthly](https://www.gitpod.io/blog/linux-foundation-gitpod-partnership)
 * [Gartner predicts that 60% of cloud workloads will be built and deployed using CDEs](https://www.gitpod.io/blog/gartner-2023-cde-hypecycle)
-* [Cloud development environment adoption stories: Shares.io](https://www.gitpod.io/blog/cloud-development-environment-adoption-stories-shares-io)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
