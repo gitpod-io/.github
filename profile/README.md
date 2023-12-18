@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Gitpod 2023—a year in review](https://www.gitpod.io/blog/gitpod-2023-a-year-in-review)
+* [The cost vs. UX trade offs of designing and operating CDEs](https://www.gitpod.io/blog/cost-vs-ux-tradeoffs-building-cdes)
 * [Self-hosted, not self-managed](https://www.gitpod.io/blog/self-hosted-not-self-managed)
 * [Internal developer portals aren't a silver bullet for platform engineering](https://www.gitpod.io/blog/internal-developer-portals-not-a-silver-bullet)
 * [Self-host Gitpod Dedicated for 30 days, free](https://www.gitpod.io/blog/self-host-gitpod-dedicated-for-30-days-free)
-* [Confessions from sales: my playbook for creating a bulletproof business case to invest in a developer tool](https://www.gitpod.io/blog/how-to-buy-a-developer-tool)
-* [A Field Guide for Sabotaging Developer Productivity: The Art of Code Chaos](https://www.gitpod.io/blog/a-field-guide-for-sabotaging-developer-productivity-the-art-of-code-chaos)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
