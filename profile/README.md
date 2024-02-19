@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Solving Python dependency issues with a Data Platform](https://www.gitpod.io/blog/luminus-case-study)
+* [Gitpod vs. Coder: the misconception of infrastructure choice](https://www.gitpod.io/blog/gitpod-vs-coder)
+* [Modeling Identity and Access Management with Gitpod: SSO, SCM, and OIDC explained](https://www.gitpod.io/blog/modeling-identity-gitpod)
+* [The K8s chasm of doom: How 'configuration drift' with Kubernetes can accidentally erode our developer experience](https://www.gitpod.io/blog/k8s-chasm-of-doom)
 * [How to build a business case for purchasing a cloud development environment](https://www.gitpod.io/blog/using-a-cde-roi-calculator)
-* [Common bottlenecks that impact developer productivity](https://www.gitpod.io/blog/common-bottlenecks-that-impacts-developer-productivity)
-* [Gitpod 2023—a year in review](https://www.gitpod.io/blog/gitpod-2023-a-year-in-review)
-* [The cost vs. UX trade offs of designing and operating CDEs](https://www.gitpod.io/blog/cost-vs-ux-tradeoffs-building-cdes)
-* [Self-hosted, not self-managed](https://www.gitpod.io/blog/self-hosted-not-self-managed)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
