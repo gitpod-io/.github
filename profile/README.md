@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [How to have security and usability with your development environments in regulated industries](https://www.gitpod.io/blog/security-and-usability-with-your-development-environments)
+* [How to setup a development environment for Docker on Windows](https://www.gitpod.io/blog/docker-on-windows)
 * [Solved: Not enough RAM to run docker-compose?](https://www.gitpod.io/blog/ram-docker-compose)
 * [How to onboard development contractors securely and quickly using Gitpod](https://www.gitpod.io/blog/onboard-contractors-securely-and-quickly-using-gitpod)
 * [Introducing Gitpod's Backstage plugin](https://www.gitpod.io/blog/introducing-gitpods-backstage-plugin)
-* [A Platform Team’s pocket guide to Cloud Development Environments](https://www.gitpod.io/blog/whats-a-cloud-development-environment)
-* [Self-hosting Gitpod: a shared operational model](https://www.gitpod.io/blog/self-hosted-shared-operational-model)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
