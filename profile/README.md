@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Gitpod named as IDC Innovator for CDEs in 2024](https://www.gitpod.io/blog/idc-innovator-2024)
 * [Financial institutions aren’t seeing ROI on technology spend without standardized and automated development environments](https://www.gitpod.io/blog/financial-institutions-arent-seeing-roi-on-technology)
+* [Gitpod vs. Coder: the misconception of infrastructure choice](https://www.gitpod.io/blog/gitpod-vs-coder)
 * [Driving platform adoption through development environments](https://www.gitpod.io/blog/driving-platform-adoption-through-cdes)
 * [Shared workspace storage with Gitpod: Sync a directory to Amazon S3 using s3fs](https://www.gitpod.io/blog/shared-workspace-storage-s3fs)
-* [Improving security posture using ephemeral development environments](https://www.gitpod.io/blog/improve-security-using-ephemeral-development-environments)
-* [Can you start your development environment with one command? Automate your environments using Gitpod](https://www.gitpod.io/blog/automate-development-environments-with-gitpod)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
