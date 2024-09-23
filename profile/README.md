@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Gartner’s market guide for cloud development environments: volume 1](https://www.gitpod.io/blog/gartners-market-guide-for-cloud-development-environments-2024)
 * [For the sake of developer productivity, don’t start your platform journey with IDPs or genAI](https://www.gitpod.io/blog/dont-start-your-platform-journey-with-idp-or-gen-ai)
 * [Venv vs. Conda: Which to Choose](https://www.gitpod.io/blog/venv-vs-conda-which-to-choose)
 * [A look at development inside a Docker container](https://www.gitpod.io/blog/a-look-at-development-inside-a-docker-container)
 * [AWS Cloud9 is now deprecated: what enterprise-grade alternatives exist?](https://www.gitpod.io/blog/enterprise-grade-alternatives-to-cloud9)
-* [Financial services company makes context switching easy with automated development environments](https://www.gitpod.io/blog/financial-services-company-context-switching-made-easy-case-study)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
