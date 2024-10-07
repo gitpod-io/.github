@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
-* [Gartner’s market guide for cloud development environments: volume 1](https://www.gitpod.io/blog/gartners-market-guide-for-cloud-development-environments-2024)
-* [For the sake of developer productivity, don’t start your platform journey with IDPs or genAI](https://www.gitpod.io/blog/dont-start-your-platform-journey-with-idp-or-gen-ai)
-* [Venv vs. Conda: Which to Choose](https://www.gitpod.io/blog/venv-vs-conda-which-to-choose)
-* [A look at development inside a Docker container](https://www.gitpod.io/blog/a-look-at-development-inside-a-docker-container)
-* [AWS Cloud9 is now deprecated: what enterprise-grade alternatives exist?](https://www.gitpod.io/blog/enterprise-grade-alternatives-to-cloud9)
+* [Gitpod embraces Development Container](https://www.gitpod.io/blog/gitpod-supports-development-container)
+* [Start security left with zero-trust development environments](https://www.gitpod.io/blog/zero-trust-development-environments)
+* [How we built it: a zero-trust architecture for cloud development environments](https://www.gitpod.io/blog/how-we-built-it-zero-trust-architecture)
+* [Introducing Gitpod Desktop: cloud development environments on your laptop](https://www.gitpod.io/blog/introducing-gitpod-desktop)
+* [Gitpod Automations: bringing DevOps to your development environment](https://www.gitpod.io/blog/introducing-automations)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
