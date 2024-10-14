@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Breaking through the developer productivity ceiling](https://www.gitpod.io/blog/developer-productivity-ceiling)
+* [Runners: Self-host Gitpod in under 3 minutes](https://www.gitpod.io/blog/self-hosted-runners)
+* [Everything that launched with Gitpod Flex](https://www.gitpod.io/blog/recap-gitpod-flex)
 * [Gitpod embraces Development Container](https://www.gitpod.io/blog/gitpod-supports-development-container)
 * [Start security left with zero-trust development environments](https://www.gitpod.io/blog/zero-trust-development-environments)
-* [How we built it: a zero-trust architecture for cloud development environments](https://www.gitpod.io/blog/how-we-built-it-zero-trust-architecture)
-* [Introducing Gitpod Desktop: cloud development environments on your laptop](https://www.gitpod.io/blog/introducing-gitpod-desktop)
-* [Gitpod Automations: bringing DevOps to your development environment](https://www.gitpod.io/blog/introducing-automations)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
