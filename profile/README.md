@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
-* [Breaking through the developer productivity ceiling](https://www.gitpod.io/blog/developer-productivity-ceiling)
-* [Runners: Self-host Gitpod in under 3 minutes](https://www.gitpod.io/blog/self-hosted-runners)
-* [Everything that launched with Gitpod Flex](https://www.gitpod.io/blog/recap-gitpod-flex)
-* [Gitpod embraces Development Container](https://www.gitpod.io/blog/gitpod-supports-development-container)
-* [Start security left with zero-trust development environments](https://www.gitpod.io/blog/zero-trust-development-environments)
+* [A guide to setting up a development environment](https://www.gitpod.io/blog/a-guide-to-setting-up-a-development-environment)
+* [Amazon WorkSpaces vs. Amazon EC2: a helpful guide](https://www.gitpod.io/blog/amazon-work-spaces-vs-amazon-ec2-a-helpful-guide)
+* [VDI Slowness: why it happens and how to fix it](https://www.gitpod.io/blog/vdi-slowness-why-it-happens-and-how-to-fix-it)
+* [5 tips that can improve VDI performance](https://www.gitpod.io/blog/5-tips-that-can-improve-vdi-performance)
+* [What Docker should have been](https://www.gitpod.io/blog/what-docker-should-have-been)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
