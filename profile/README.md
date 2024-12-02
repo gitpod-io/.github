@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Gitpod: a secure, managed alternative to Cloud9](https://www.gitpod.io/blog/gitpod-a-secure-managed-alternative-to-cloud9)
+* [Gitpod can do that? 5 AWS integrations from VPCs to Workspaces](https://www.gitpod.io/blog/gitpod-aws-integrations)
 * [Building tomorrow's development platform: Combining Amazon Q AI and development environment standardization](https://www.gitpod.io/blog/amazon-q-gitpod)
 * [Why CDEs should be prioritized before IDPs](https://www.gitpod.io/blog/why-cdes-should-be-prioritized-before-idps)
 * [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
-* [A guide to setting up a development environment](https://www.gitpod.io/blog/a-guide-to-setting-up-a-development-environment)
-* [Amazon WorkSpaces vs. Amazon EC2: a helpful guide](https://www.gitpod.io/blog/amazon-work-spaces-vs-amazon-ec2-a-helpful-guide)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
