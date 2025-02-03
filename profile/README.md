@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [An enterprise guide to buying CDEs](https://www.gitpod.io/blog/enterprise-buyers-guide-cde)
+* [The 20 most popular developer productivity metrics: a practical reference for leaders](https://www.gitpod.io/blog/20-most-popular-developer-productivity-metrics)
 * [Make developer experience in regulated industries fun again](https://www.gitpod.io/blog/make-regulated-devex-fun-again)
 * [DX Core 4: finally! Opinionated developer productivity metrics that speak business](https://www.gitpod.io/blog/dx-core-4-eng-leaders)
 * [A CISO perspective: how Gitpod helps increase developer security without compromising productivity](https://www.gitpod.io/blog/a-ciso-perspective-improve-developer-security)
-* [Automated GPU development environments on AWS](https://www.gitpod.io/blog/gpu-dev-environments-on-aws)
-* [Gitpod: a secure, managed alternative to Cloud9](https://www.gitpod.io/blog/gitpod-a-secure-managed-alternative-to-cloud9)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
