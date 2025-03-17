@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
-* [‘Vibe coding’ is a revolution for optimistic creatives](https://www.gitpod.io/blog/vibe-coding)
-* [Gitpod SDK: infrastructure for software engineering agents](https://www.gitpod.io/blog/introducing-gitpod-sdk)
-* [Adapting the UK Government AI Playbook to software engineering: a CTOs guide](https://www.gitpod.io/blog/software-engineering-ai-playbook-ctos)
-* [An enterprise guide to buying CDEs](https://www.gitpod.io/blog/enterprise-buyers-guide-cde)
-* [The 20 most popular developer productivity metrics: a practical reference for leaders](https://www.gitpod.io/blog/20-most-popular-developer-productivity-metrics)
+* [The agentic AI information asymmetry problem](https://www.gitpod.io/blog/closing-the-ai-asymmetry-problem)
+* [The developer evolution: How AI is shaping developer efficiency and strategic value](https://www.gitpod.io/blog/how-ai-shapes-dev-efficiency-and-strategic-value)
+* [The impact of onboarding efficiency on developer retention: Streamlining processes for team performance](https://www.gitpod.io/blog/impact-of-onboarding-on-dev-retention)
+* [Everything a CTO needs to know about AI](https://www.gitpod.io/blog/everything-ctos-need-to-know-ai)
+* [Discovering AI opportunities with a Tech Radar approach](https://www.gitpod.io/blog/tech-radar-ai-use-cases)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
