@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
-* [The agentic AI information asymmetry problem](https://www.gitpod.io/blog/closing-the-ai-asymmetry-problem)
-* [The developer evolution: How AI is shaping developer efficiency and strategic value](https://www.gitpod.io/blog/how-ai-shapes-dev-efficiency-and-strategic-value)
-* [The impact of onboarding efficiency on developer retention: Streamlining processes for team performance](https://www.gitpod.io/blog/impact-of-onboarding-on-dev-retention)
-* [Everything a CTO needs to know about AI](https://www.gitpod.io/blog/everything-ctos-need-to-know-ai)
-* [Discovering AI opportunities with a Tech Radar approach](https://www.gitpod.io/blog/tech-radar-ai-use-cases)
+* [8 best practices for securing your development pipeline](https://www.gitpod.io/blog/best-practices-securing-development-pipeline)
+* [Key developer onboarding metrics for measuring success](https://www.gitpod.io/blog/developer-onboarding-key-metrics-to-track)
+* [How to troubleshoot and fix setup issues in Python data science](https://www.gitpod.io/blog/fix-python-data-science-setup-issues)
+* [10 automation strategies to boost development velocity](https://www.gitpod.io/blog/boost-developer-velocity-with-automation)
+* [How to scale developer teams efficiently: Best practices for success](https://www.gitpod.io/blog/how-to-efficiently-scale-developer-teams)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
