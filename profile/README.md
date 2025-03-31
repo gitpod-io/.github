@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Time between disengagements: the rise of the software conductor](https://www.gitpod.io/blog/time-between-disengagements-the-rise-of-the-software-conductor)
+* [Zero-trust architecture: Strategies for developers and DevOps](https://www.gitpod.io/blog/zero-trust-architecture-for-developers)
+* [AI in coding: Boosting developer productivity and potential](https://www.gitpod.io/blog/how-ai-revolutionizes-coding-productivity-developer-potential)
 * [8 best practices for securing your development pipeline](https://www.gitpod.io/blog/best-practices-securing-development-pipeline)
 * [Key developer onboarding metrics for measuring success](https://www.gitpod.io/blog/developer-onboarding-key-metrics-to-track)
-* [How to troubleshoot and fix setup issues in Python data science](https://www.gitpod.io/blog/fix-python-data-science-setup-issues)
-* [10 automation strategies to boost development velocity](https://www.gitpod.io/blog/boost-developer-velocity-with-automation)
-* [How to scale developer teams efficiently: Best practices for success](https://www.gitpod.io/blog/how-to-efficiently-scale-developer-teams)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
