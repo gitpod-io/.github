@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [The software conductor's handbook: maximize autonomy for AI software development agents](https://www.gitpod.io/blog/software-conductors-handbook)
 * [Naming is hard: taking 'Flex' into the future](https://www.gitpod.io/blog/naming-is-hard)
 * [Improve your security posture by replacing VDI with Gitpod + Island](https://www.gitpod.io/blog/replace-vdi-with-gitpod-and-island)
 * [Free vs. Core vs. Enterprise: Choosing the right pricing tier for your organization](https://www.gitpod.io/blog/understanding-gitpod-pricing-tiers)
 * [No infrastructure setup required: new SaaS offering coming this summer](https://www.gitpod.io/blog/coming-soon-gitpod-as-a-saas)
-* [Time between disengagements: the rise of the software conductor](https://www.gitpod.io/blog/time-between-disengagements-the-rise-of-the-software-conductor)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
