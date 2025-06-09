@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [How to use Cline securely and reliably with Gitpod](https://www.gitpod.io/blog/how-to-use-cline-securely-and-reliably-with-gitpod)
+* [DevPod Pro is EOLing. What should you do?](https://www.gitpod.io/blog/devpod-pro-is-eoling-what-should-you-do)
 * [The 'thin VDI' approach to cut costs and improve developer velocity](https://www.gitpod.io/blog/thin-vdi-and-cde)
 * [The AI security gap: a CTOs & CISOs guide to making their first AI investment](https://www.gitpod.io/blog/ai-security-gap)
 * [Why enterprise Cursor adoption requires secure development environments](https://www.gitpod.io/blog/secure-enterprise-cursor-dev-environments)
-* [Why enterprise Windsurf adoption requires secure development environments](https://www.gitpod.io/blog/secure-enterprise-windsurf-dev-environments)
-* [Why enterprise GitHub Copilot adoption requires secure development environments](https://www.gitpod.io/blog/secure-enterprise-github-copilot-dev-environments)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
