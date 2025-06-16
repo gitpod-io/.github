@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [AI agents need infrastructure (and that's now your problem)](https://www.gitpod.io/blog/ai-agents-need-infrastructure)
+* [Shadow AI is the new shadow IT - secure Cline with Gitpod (without killing productivity)](https://www.gitpod.io/blog/shadow-ai-is-the-new-shadow-it)
+* [Accelerating dev container startup with automatic image caching](https://www.gitpod.io/blog/automating-dev-container-image-caching)
 * [How to use Cline securely and reliably with Gitpod](https://www.gitpod.io/blog/how-to-use-cline-securely-and-reliably-with-gitpod)
 * [DevPod Pro is EOLing. What should you do?](https://www.gitpod.io/blog/devpod-pro-is-eoling-what-should-you-do)
-* [The 'thin VDI' approach to cut costs and improve developer velocity](https://www.gitpod.io/blog/thin-vdi-and-cde)
-* [The AI security gap: a CTOs & CISOs guide to making their first AI investment](https://www.gitpod.io/blog/ai-security-gap)
-* [Why enterprise Cursor adoption requires secure development environments](https://www.gitpod.io/blog/secure-enterprise-cursor-dev-environments)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
