@@ -14,11 +14,11 @@ Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start yo
 #### Recent blog posts
 
 <!--START_SECTION:feed-->
+* [How to run Claude Code in parallel](https://www.gitpod.io/blog/parallelize-claude-code)
 * [The enterprise version of Codex just dropped (but it's not from OpenAI)](https://www.gitpod.io/blog/codex-for-enterprise)
 * [AI agents need infrastructure (and that's now your problem)](https://www.gitpod.io/blog/ai-agents-need-infrastructure)
 * [Shadow AI is the new shadow IT - secure Cline with Gitpod (without killing productivity)](https://www.gitpod.io/blog/shadow-ai-is-the-new-shadow-it)
 * [Accelerating dev container startup with automatic image caching](https://www.gitpod.io/blog/automating-dev-container-image-caching)
-* [How to use Cline securely and reliably with Gitpod](https://www.gitpod.io/blog/how-to-use-cline-securely-and-reliably-with-gitpod)
 <!--END_SECTION:feed-->
 
 [View all blog posts &rarr;](https://www.gitpod.io/blog)
