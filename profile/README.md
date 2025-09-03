@@ -1,24 +1,17 @@
-# 👋 Welcome to Gitpod!
+# Welcome to Ona!
 
-Gitpod’s developer platform provides on-demand cloud development environments ([CDEs](https://www.gitpod.io/cde)) to create software faster and more securely. CDEs are pre-configured with all tools, libraries and dependencies needed to write, test and review code. They can be easily duplicated and shared across teams.
+([Ona (formerly Gitpod)](https://ona.com/stories/gitpod-is-now-ona)) is the mission control for your personal team of software engineering agents working across the entire software development lifecycle. Ona is sandboxed for high-autonomy, runs full VS Code in the browser, and also works on your phone.
 
-Never tried [Gitpod](https://www.gitpod.io/)? Click the button below to start your first cloud development environment:
+Ona's platform is compromised of Ona Agents, Ona Environments, and Ona Guardrails. 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.new)
+**Ona Agents**: professional software engineering agents that execute tasks in parallel, or autonomously in the background, with the full context of your environments. 
 
-* 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=&template=feature_request.md&title=)
-* 🐛 Did you run into a bug? [Open a bug report](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=bug&template=bug_report.yml)
-* ⚠️ Service interuptions? [Checkout Gitpod Status](https://gitpodstatus.com/)
-* 🦩 Feeling social? [Join our discord community](https://www.gitpod.io/chat)
+**Ona Environments**: ephemeral, isolated workspaces. Configured to include source code, dependencies, tools, and access policies. Can run in Ona’s managed cloud or in your own infrastructure.
 
-#### Recent blog posts
+**Ona Guardrails**: security and compliance features, inncluding network controls, identity integration (OIDC), audit logs, and policy enforcement.
 
-<!--START_SECTION:feed-->
-* [How to run Claude Code in parallel](https://www.gitpod.io/blog/parallelize-claude-code)
-* [The enterprise version of Codex just dropped (but it's not from OpenAI)](https://www.gitpod.io/blog/codex-for-enterprise)
-* [AI agents need infrastructure (and that's now your problem)](https://www.gitpod.io/blog/ai-agents-need-infrastructure)
-* [Shadow AI is the new shadow IT - secure Cline with Gitpod (without killing productivity)](https://www.gitpod.io/blog/shadow-ai-is-the-new-shadow-it)
-* [Accelerating dev container startup with automatic image caching](https://www.gitpod.io/blog/automating-dev-container-image-caching)
-<!--END_SECTION:feed-->
 
-[View all blog posts &rarr;](https://www.gitpod.io/blog)
+Never tried [Ona](https://www.ona.com)? Here are a few helpful resources. 
+
+Get started for [free](https://app.gitpod.io/) (upgrade to Core in September and get $100 in credits). 
+Check out our [docs](https://ona.com/docs/ona/getting-started) or read our [best practices guide](https://ona.com/docs/ona/best-practices).
