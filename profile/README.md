@@ -13,5 +13,6 @@ Ona's platform is compromised of Ona Agents, Ona Environments, and Ona Guardrail
 
 Never tried [Ona](https://www.ona.com)? Here are a few helpful resources. 
 
-Get started for [free](https://app.gitpod.io/) (upgrade to Core in September and get $100 in credits). 
+Get started for [free](https://app.gitpod.io/) (upgrade to Core and get $100 in credits). 
 Check out our [docs](https://ona.com/docs/ona/getting-started) or read our [best practices guide](https://ona.com/docs/ona/best-practices).
+Check out our [open-source program](https://ona.com/open-source) which grants free credits to eligible contributors and maintainers 
