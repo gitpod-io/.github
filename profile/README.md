@@ -2,7 +2,7 @@
 
 [Ona (formerly Gitpod)](https://ona.com/stories/gitpod-is-now-ona) is the mission control for your personal team of software engineering agents working across the entire software development lifecycle. Ona is sandboxed for high-autonomy, runs full VS Code in the browser, and also works on your phone.
 
-Ona's platform is compromised of Ona Agents, Ona Environments, and Ona Guardrails. 
+Ona's platform is comprised of Ona Agents, Ona Environments, and Ona Guardrails. 
 
 **Ona Agents**: professional software engineering agents that execute tasks in parallel, or autonomously in the background, with the full context of your environments. 
 
