@@ -17,4 +17,4 @@ assignees: ''
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
 ## Additional context
-<!-- Add any other context or screenshots about the feature request here. Please also link to the related public issue in the gitpod repo -->
+<!-- Add any other context or screenshots about the feature request here. Please also link to any related public issue. -->
