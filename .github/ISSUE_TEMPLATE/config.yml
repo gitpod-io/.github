@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Community
-    url: https://www.gitpod.io/community
+  - name: Request Ona support
+    url: https://ona.com/docs/ona/troubleshooting#requesting-support
     about: Please ask and answer usage questions here.

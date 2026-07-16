@@ -4,7 +4,7 @@ labels: "bug"
 body:
 - type: markdown
   attributes:
-    value: Before raising an issue, please search for existing issues to avoid creating duplicates. For questions and support please use [Discord](https://www.gitpod.io/chat).
+    value: Before raising an issue, please search for existing issues to avoid creating duplicates. For questions and support, please follow the instructions for [requesting support](https://ona.com/docs/ona/troubleshooting#requesting-support).
 - type: textarea
   id: bug-description
   attributes:
