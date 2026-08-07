@@ -8,7 +8,7 @@ Ona's platform is compromised of Ona Agents, Ona Environments, and Ona Guardrail
 
 **Ona Environments**: ephemeral, isolated workspaces. Configured to include source code, dependencies, tools, and access policies. Can run in Ona’s managed cloud or in your own infrastructure.
 
-**Ona Guardrails**: security and compliance features, inncluding network controls, identity integration (OIDC), audit logs, and policy enforcement.
+**Ona Guardrails**: security and compliance features, including network controls, identity integration (OIDC), audit logs, and policy enforcement.
 
 
 Never tried [Ona](https://www.ona.com)? Here are a few helpful resources. 
